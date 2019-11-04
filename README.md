@@ -1,0 +1,2 @@
+# GASoft
+Algorithme génétique C#
